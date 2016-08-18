@@ -12,6 +12,7 @@ namespace appSesion_1
 {
     public partial class Form1 : Form
     {
+        //modifique
         public Form1()
         {
             InitializeComponent();
